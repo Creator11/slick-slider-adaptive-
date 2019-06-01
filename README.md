@@ -1,2 +1,2 @@
-# slick slider(4 show/ 1swap) 
+# slick slider() 
 +adaptive 
